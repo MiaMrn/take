@@ -1,5 +1,21 @@
-p {
-  color: black;
+body {
+  background-color: white;
+}
+
+.container {
+  width: 1230px;
+  margin: 10px 20px;
+}
+
+.details {
+  display: flex;
+  justify-content: space-between;
+  background-color: red;
+}
+
+.onboard {
+  display: flex;
+  justify-content: space-between;
 }
 
 /*# sourceMappingURL=style.css.map */
